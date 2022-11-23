@@ -1,7 +1,7 @@
 import java.util.Scanner; // Import the Scanner class
 import java.time.YearMonth; // Import the YearMonth class
 
-class MonthCalculator {
+class DaysInMonth {
     public static String userMonth = "";
     public static String[] months = {
             "january",
